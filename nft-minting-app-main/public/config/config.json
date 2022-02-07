@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x01686e7175D75Fa331C7cE889D0fF8158dC98D4E",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x01686e7175d75fa331c7ce889d0ff8158dc98d4e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The NFT Lottery",
+  "SYMBOL": "NFTLOT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nft-lottery-v2-1",
+  "SHOW_BACKGROUND": true
+}
